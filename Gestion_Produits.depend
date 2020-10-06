@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1485771142 source:e:\ecole\second year\poo\tp_gestionprodts\gestion_produits\firstpage.cpp
+	<iostream>
+	"Graphisme.h"
+
+1491157858 e:\ecole\second year\poo\tp_gestionprodts\gestion_produits\graphisme.h
+
+1485732531 source:e:\ecole\second year\poo\tp_gestionprodts\gestion_produits\gestionlistedouble.cpp
+	<iostream>
+	"GestionListeDouble.h"
+
+1485732697 e:\ecole\second year\poo\tp_gestionprodts\gestion_produits\gestionlistedouble.h
+
+1493124159 source:e:\ecole\second year\poo\tp_gestionprodts\gestion_produits\gestionlistesimple.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<string>
+	<string.h>
+	<fstream>
+	"GestionListeSimple.h"
+	"GestionTableau.h"
+	"Graphisme.h"
+
+1491429488 e:\ecole\second year\poo\tp_gestionprodts\gestion_produits\gestionlistesimple.h
+	"GestionTableau.h"
+
+1493124114 source:e:\ecole\second year\poo\tp_gestionprodts\gestion_produits\gestiontableau.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<string>
+	<string.h>
+	<fstream>
+	"GestionTableau.h"
+	"Graphisme.h"
+
+1493124230 e:\ecole\second year\poo\tp_gestionprodts\gestion_produits\gestiontableau.h
+
+1493124136 source:e:\ecole\second year\poo\tp_gestionprodts\gestion_produits\graphisme.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<string>
+	<limits>
+	"GestionTableau.h"
+	"GestionListeSimple.h"
+	"Graphisme.h"
+
+1493048753 source:e:\ecole\second year\poo\tp_gestionprodts\gestion_produits\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<string.h>
+	<limits>
+	"Graphisme.h"
+	"GestionTableau.h"
+	"GestionListeSimple.h"
+
